@@ -27,7 +27,7 @@ Stats as of 9/20/16:
                             <b>Icon</b>
                         </td>
                         <td>
-                            <img src="/content/images/Bytecoin.png" alt="Bytecoin (BCN) Cryptocurrency" />
+                            <img src="http://www.coinwarz.com/content/images/Bytecoin.png" alt="Bytecoin (BCN) Cryptocurrency" />
                         </td>
                     </tr>
                     <tr>
