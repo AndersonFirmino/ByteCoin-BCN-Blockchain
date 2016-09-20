@@ -1,8 +1,8 @@
 # ByteCoin-BCN-Blockchain
 ByteCoin (BCN) Blockchain Download Link:
-Unpack and place into:
-Windows: C:\Users\%user_name%\AppData\Roaming\bytecoin\
-OSX/Linux: ~/.bytecoin/
+<br>Unpack and place into:
+<br>Windows: C:\Users\%user_name%\AppData\Roaming\bytecoin\
+<br>OSX/Linux: ~/.bytecoin/
 
 
 Stats as of 9/20/16:
