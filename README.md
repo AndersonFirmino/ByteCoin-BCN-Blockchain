@@ -1,7 +1,8 @@
 # ByteCoin-BCN-Blockchain
-ByteCoin (BCN) Blockchain
-
-Download and place into your wallet directory to sync faster. Blockchain in this repo is updated weekly.
+ByteCoin (BCN) Blockchain Download Link:
+Unpack and place into:
+Windows: C:\Users\%user_name%\AppData\Roaming\bytecoin\
+OSX/Linux: ~/.bytecoin/
 
 
 Stats as of 9/20/16:
